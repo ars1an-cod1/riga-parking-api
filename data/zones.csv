@@ -1,0 +1,6 @@
+zone,first_hour,next_hour,min_fee,weekday_start,weekday_end,sat_start,sat_end,sun_start,sun_end
+R,5.00,8.00,1.30,6,24,6,24,6,24
+A,2.50,3.00,0.60,8,20,9,17,,
+B,2.00,2.50,0.50,8,20,9,17,,
+C,1.50,2.00,0.40,8,20,9,17,,
+D,1.00,1.50,0.30,8,20,9,17,,
